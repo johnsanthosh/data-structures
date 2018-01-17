@@ -1,6 +1,6 @@
 package com.exj.tree;
 
-public class BinaryTreeSimilarity {
+public class TreeSimilarity {
 	
 	public static boolean isSameTree(BinarySearchTree p, BinarySearchTree q) {
         if(p == null && q == null){

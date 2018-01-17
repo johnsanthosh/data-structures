@@ -1,6 +1,6 @@
 package com.exj.tree;
 
-public class BinaryTreeHeight {
+public class TreeHeight {
 	
 	public static int height(BinarySearchTree root) {
 		if(root == null) {
